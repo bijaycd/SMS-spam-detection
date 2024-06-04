@@ -1,0 +1,5 @@
+nltk
+streamlit
+sklearn==1.3.2
+stopwords
+punkt
